@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Ustad.master.cs" Inherits="UyelikSistemi.Ustad"  %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+       
+
+        <div class="ana">
+            <header>
+                head
+            </header>
+            <nav></nav>
+            <div class="navyani">
+                <asp:ContentPlaceHolder ID="onNav" runat="server"></asp:ContentPlaceHolder>
+            </div>
+
+            <aside>
+                <asp:ContentPlaceHolder ID="onAside" runat="server"></asp:ContentPlaceHolder>
+            </aside>
+
+            <div class="icerik">
+           
+                <asp:ContentPlaceHolder ID="onMain" runat="server">
+            </asp:ContentPlaceHolder> 
+
+           </div>
+            <footer>
+
+            </footer>
+
+        </div>
+
+
+       
+    </form>
+</body>
+</html>

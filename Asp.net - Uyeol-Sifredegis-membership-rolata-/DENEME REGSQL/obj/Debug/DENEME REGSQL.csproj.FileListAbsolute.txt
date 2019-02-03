@@ -1,0 +1,18 @@
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.dll.config
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.dll
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.pdb
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.dll
+c:\users\asus\source\repos\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.pdb
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.dll.config
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\bin\DENEME REGSQL.pdb
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.dll
+C:\Users\Asus\source\repos\A.WEBIMSI\aa.IBO.ASPNET\DENEME REGSQL\DENEME REGSQL\obj\Debug\DENEME REGSQL.pdb

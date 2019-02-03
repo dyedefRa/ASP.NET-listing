@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\bin\6.12.IBO.MEMBERSHIP.SON.dll.config
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\bin\6.12.IBO.MEMBERSHIP.SON.dll
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\bin\6.12.IBO.MEMBERSHIP.SON.pdb
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\obj\Debug\6.12.IBO.MEMBERSHIP.SON.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\obj\Debug\6.12.IBO.MEMBERSHIP.SON.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\obj\Debug\6.12.IBO.MEMBERSHIP.SON.dll
+C:\Users\Asus\source\repos\6.12.IBO.MEMBERSHIP.SON\6.12.IBO.MEMBERSHIP.SON\obj\Debug\6.12.IBO.MEMBERSHIP.SON.pdb

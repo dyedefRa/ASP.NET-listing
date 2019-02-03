@@ -1,0 +1,61 @@
+﻿.ana{
+    padding:0;
+    margin:0 20px;
+    background-color:beige;
+    width:1000px;
+    height:2000px;
+}
+header{
+    margin-top:20px;
+    margin-right:20px;
+    margin-left:20px;
+    width:960px;
+    background-color:azure;
+    float:left;
+    height:300px;
+}
+nav {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 700px;
+    height: 120px;
+    float: left;
+    background-color:aqua;
+}
+.navyani{
+    float:left;
+    height:120px;
+    width:240px;
+    margin-top:20px;
+    margin-left:20px;
+    background-color:orchid;
+}
+aside{
+    float:left;
+    width:300px;
+    height:auto;
+    margin-top:40px;
+    background-color:antiquewhite;
+    margin-left:20px;
+
+}
+
+.icerik{
+    float:left;
+    margin-top:40px;
+    margin-left:40px;
+    width:620px;
+    background-color:aqua;
+    height:auto
+        ;
+}
+footer {
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 960px;
+    height: 190px;
+    background-color: #469a74;
+}
